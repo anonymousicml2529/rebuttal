@@ -1,7 +1,6 @@
 # Rebuttal
 
-
-![Description](3gpp_added.png)
+<img src="3gpp_added.png" alt="Description" width="400">
 
 ![Description](plot_K.png)
 
