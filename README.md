@@ -1,4 +1,4 @@
 # Rebuttal
 
 
-![Description](./3GPP_added.png)
+![Description](3gpp_added.png)
