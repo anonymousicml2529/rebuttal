@@ -1,7 +1,10 @@
 # Rebuttal
 
-<img src="3gpp_added.png" alt="Description" width="400">
+<img src="3gpp_added.png" alt="Description" width="600">
 
-![Description](plot_K.png)
 
-![Description](plot_S.png)
+<img src="plot_K.png" alt="Description" width="500">
+
+
+<img src="plot_S.png" alt="Description" width="600">
+
