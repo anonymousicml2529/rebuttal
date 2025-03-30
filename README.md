@@ -14,7 +14,7 @@ Dependency of the angular spread on the number K of components of the CP-GMM.
 
 ## Figure 3. Experiments the Grid Resolution in OFDM simulations
 
-a) and b) nMSE and cosine similarity for reconstructing ground-truth channels by an autoencoder trained on channel realizations produced by the generative models, respectively. We choose the maximally resolvable delay to be 8μs and the maximally resolvable doppler shift to be 100Hz, but vary the grid resolution S, i.e., the delay-doppler grid exhibits S2 gridpoints. In c), exemplary drawn samples are shown for the different grid resolutions.
+a) and b) nMSE and cosine similarity for reconstructing ground-truth channels by an autoencoder trained on channel realizations produced by the generative models, respectively. We choose the maximally resolvable delay to be 8μs and the maximally resolvable doppler shift to be 100Hz, but vary the grid resolution S, i.e., the delay-doppler grid exhibits S^2 gridpoints. In c), exemplary drawn samples are shown for the different grid resolutions.
 
 <img src="plot_S2.png" alt="Description" width="700">
 
