@@ -18,11 +18,11 @@ a) and b) nMSE and cosine similarity for reconstructing ground-truth channels by
 
 <img src="plot_S2.png" alt="Description" width="700">
 
-## Figure 4. Bird Perspective of the NokiaCampus used for the measurement Campaign and marked LoS and NLoS regions
+## Figure 4. Overview of the Nokia-Campus used for the Measurement Campaign and marked LoS (green) and NLoS (red) regions
 
 <img src="nokia_campus.png" alt="Description" width="500">
 
-## Figure 5. Experiments regarding the Measurement Campaign Data
+## Figure 5. Experiments regarding the Measurement Campaign
 
 a) Power angular profile of newly generated samples by the CP-VAE when it is trained on the full dataset from the measurement
 campaign. b) Histogram of the angular spread when the CP-VAE is solely trained on LoS channels in the measurement campaign, and
